@@ -1,5 +1,10 @@
 # Acoustic-Communication-Mimicking-Sea
 
+## Get Started with Relevant Project Implementation
+- If you're looking for assistance with a project implementation that aligns with your needs, feel free to get in touch with us [LinkedIn](https://www.linkedin.com/in/a-a-a-a-stark-69696617b/).
+- To get in touch with us and discuss your project implementation needs, please send an email to [4444stark@gmail.com](mailto:4444stark@gmail.com).
+- Thank you for considering our services. We look forward to working with you!
+
 ## Abstract
 >The novel use of machine learning (ML) in the field of underwater acoustic communication (UAC) is explored in this research study, with an emphasis on the categorization of various underwater noises. Designing a communication system with the ability to successfully send information while evading detection is the major goal to increase the security and effectiveness of underwater communication. The study explores the difficulties brought forth by the complex undersea environment and describes how ML may be used to get around these constraints. It gives a thorough analysis of several machine learning (ML) methods with a focus on Deep Learning (DL) and how well they simulate the underwater audio channel. The study's results show how machine learning may improve UAC system performance, enabling safer and more effective underwater communication. To categorize different forms of natural noise present in the depths of aquatic ecosystems, a range of machine learning methods, including Convolutional Neural Network (CNN) and Multi Scale Deep Features Aggregation (MSDFA), are used in this study. The significance of these discoveries are discussed in the paper's conclusion, and it offers suggestions for further study in this fascinating area.
 
@@ -43,11 +48,6 @@
     <img width="100%" hight="100%" src="https://github.com/aaaastark/Acoustic-Communication-Mimicking-Sea/assets/74346775/24c2c750-9f72-4751-ae76-7210ef3f002f"> 
     <figcaption>Representation of Humpback whale sounds in 1-1.5 miles North of Tortola, British Virgin Islands region</figcaption>
 </p>
-
-# Get Started with Relevant Project Implementation
-> If you're looking for assistance with a project implementation that aligns with your needs, feel free to get in touch with us [LinkedIn](https://www.linkedin.com/in/a-a-a-a-stark-69696617b/).
-> To get in touch with us and discuss your project implementation needs, please send an email to [4444stark@gmail.com](mailto:4444stark@gmail.com).
-> Thank you for considering our services. We look forward to working with you!
 
 
 
