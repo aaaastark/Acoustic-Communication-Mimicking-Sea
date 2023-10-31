@@ -5,9 +5,11 @@
 
 ## Classification Accuracies of Different Methods
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/aaaastark/Acoustic-Communication-Mimicking-Sea/assets/74346775/ae6d7dd5-e0d7-48a3-908b-56fbb552cb70" alt="Image 1" style="width: 50%;">
+  <img src="https://github.com/aaaastark/Acoustic-Communication-Mimicking-Sea/assets/74346775/ae6d7dd5-e0d7-48a3-908b-56fbb552cb70" alt="Image 1" style="width: 100%;">
   <figcaption>Illustration provides a graphical representation of the data visualization associated with the various machine learning models.</figcaption>
-  <img src="https://github.com/aaaastark/Acoustic-Communication-Mimicking-Sea/assets/74346775/64871caf-7e8d-4eab-9b6f-b40afd96a914" alt="Image 2" style="width: 50%;">
+</div>
+<div style="display: flex; justify-content: space-between;">
+<img src="https://github.com/aaaastark/Acoustic-Communication-Mimicking-Sea/assets/74346775/64871caf-7e8d-4eab-9b6f-b40afd96a914" alt="Image 2" style="width: 100%;">
   <figcaption>Illustration show comparison of different machine learning Models.</figcaption>
 </div>
 
